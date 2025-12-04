@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InnerLeaf - Grow Your Mental Health Like a Plant
 
 InnerLeaf is a gamified mental-wellness platform where your mental health becomes a living digital garden. Every positive action you take in real life helps your virtual plant grow and thrive — creating a deep emotional connection and building long-term healthy habits.
@@ -152,3 +153,6 @@ For questions or feedback, please open an issue on GitHub or contact the develop
 ---
 
 *InnerLeaf - Nurturing mental wellness, one digital leaf at a time.*
+=======
+# InnerLeaf
+>>>>>>> a8ba600571ac8be104bcb69d60aaad9f0b2c7a4e
